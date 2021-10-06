@@ -7,7 +7,6 @@ With every line of code, I tend to create things with personality to make differ
   <img src="https://img.shields.io/badge/typescript-%23007ACC?&style=flat-square&logo=typescript&logoColor=white" alt="Typescript">
   <img src="https://img.shields.io/badge/angular-%23DD0031?&style=flat-square&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/git-%23F05032?&style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/jira-%230052CC?&style=flat-square&logo=jira&logoColor=white" alt="Jira">
   <br><br>
   <a href="https://www.linkedin.com/in/acortino" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
