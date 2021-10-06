@@ -10,7 +10,6 @@ With every line of code, I tend to create things with personality to make differ
   <img src="https://img.shields.io/badge/jira-%230052CC?&style=flat-square&logo=jira&logoColor=white" alt="Jira">
   <br><br>
   <a href="https://www.linkedin.com/in/acortino" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/acortino.me" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 - :seedling: I’m currently working on **improving my Python knowledge**
