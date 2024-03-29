@@ -11,7 +11,7 @@ With every line of code, I tend to create things with personality to make differ
   <a href="https://www.linkedin.com/in/acortino" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-- :seedling: I’m currently working on **improving my Python knowledge**
-- :feet: I'm running **Manjaro** & **MacOs**
-- :zap: I'm using **PyCharm**, **Webstorm**, **vim**, **zsh**, <a href="https://github.com/Powerlevel9k/powerlevel9k">**Powerlevel10k**</a>, <a href="https://github.com/ohmyzsh/ohmyzsh">**Oh-my-zsh**</a>
+- :seedling: I’m currently working for Uniphore
+- :feet: I'm running **MacOs**
+- :zap: I'm using **PyCharm**, **Idea**, **Webstorm**, **vim**, **zsh**, <a href="https://github.com/Powerlevel9k/powerlevel9k">**Powerlevel10k**</a>, <a href="https://github.com/ohmyzsh/ohmyzsh">**Oh-my-zsh**</a>
 
